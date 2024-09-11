@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "*.rmd": "markdown"
+    },
+    "workbench.colorCustomizations": {},
+    "git.autofetch": true,
+    "window.zoomLevel": 1,
+    "git.openRepositoryInParentFolders": "never",
+    "explorer.confirmDelete": false,
+    "java.project.referencedLibraries": [
+        "lib/mysql-connector-java-9.0.0.jar"
+    ]
+}
+
+
