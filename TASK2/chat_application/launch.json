@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug ChatServer",
+            "type": "java",
+            "request": "launch",
+            "mainClass": "ChatServer",
+            "projectName": "chat_application",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "Debug ChatClient",
+            "type": "java",
+            "request": "launch",
+            "mainClass": "ChatClient",
+            "projectName": "chat_application",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
